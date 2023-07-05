@@ -1,0 +1,1 @@
+docker run -v .:/code -p 9000:9000 -it a4749b4aa3e0 sh
